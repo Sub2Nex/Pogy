@@ -1,14 +1,14 @@
 module.exports = {
  "verification": "",
- "description": "Pogy is a multi-purpose discord bot ready to skill up and boost up your Discord server!",
- "domain": "", // domain
+ "description": "Ryno is a multi-purpose discord bot ready to skill up and boost up your Discord server!",
+ "domain": "pogy.xyz", // domain
  "google_analitics": "", // google analitics
- "token": process.env.TOKEN,
+ "token": "NzUxMTQ2MDkwOTQxOTA2OTQ1.X1E1Tw.SSiUEOk0nOzOYn_xekhfYR0o45A",
  "https":"https://", // leave as is
  "port":"5003",
 
- "client_id":"", // bot client ID
- "secret":"" // bot client secret for auth
+ "client_id":"751146090941906945", // bot client ID
+ "secret":"cXiGiC_QfzYio7GDFSTiFOgcYMNNt6Gy" // bot client secret for auth
 
 }
 
