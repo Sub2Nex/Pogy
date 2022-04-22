@@ -3,7 +3,7 @@ module.exports = {
  "description": "Ryno is a multi-purpose discord bot ready to skill up and boost up your Discord server!",
  "domain": "pogy.xyz", // domain
  "google_analitics": "", // google analitics
- "token": "NzUxMTQ2MDkwOTQxOTA2OTQ1.X1E1Tw.UKmf_kV6aNaN9j5EE_yNHnO00sY",
+ "token": process.env.TOKEN,
  "https":"https://", // leave as is
  "port":"5003",
 
