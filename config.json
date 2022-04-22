@@ -1,14 +1,14 @@
 {
-  "mongodb_url": "mongodb://mongo:C1IU0y1niuANaTZGZ6HM@containers-us-west-33.railway.app:6180", //mongo db URL
-  "developers": ["565161320962326528"], //developers ID
-  "datadogApiKey": "", // for statistics (optional)
+  "mongodb_url": "mongodb://mongo:C1IU0y1niuANaTZGZ6HM@containers-us-west-33.railway.app:6180",
+  "developers": ["565161320962326528"],
+  "datadogApiKey": "",
   "dashboard":"false", 
-  "prefix":":", //prefix
-  "arc":"",//arc.io source (optional)
-  "youtube_key":"", //youtube api key from https://console.cloud.google.com/apis/
-  "cat_api_key":"",// https://thecatapi.com/signup
-  "webhook_id":"965826682504228904", //read down
-  "webhook_url":"fp3oxYdCapUWBgZyBGVDFyR3CCWOdTMwUHgqwGPz36sW6NN69JejyxMidgSsPv6BncvS" //read down
+  "prefix":":",
+  "arc":"",
+  "youtube_key":"",
+  "cat_api_key":"",
+  "webhook_id":"965826682504228904",
+  "webhook_url":"fp3oxYdCapUWBgZyBGVDFyR3CCWOdTMwUHgqwGPz36sW6NN69JejyxMidgSsPv6BncvS"
 }
 
 
